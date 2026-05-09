@@ -13,6 +13,7 @@ What this training does and doesn't cover
 -   Exercises can be done individually but work better in small groups (3-4 people)
 -   Also work better if done synchronously
     -   But may be done asynchronously if a workshop runs out of time
+    
 
 ## Prerequisites
 
