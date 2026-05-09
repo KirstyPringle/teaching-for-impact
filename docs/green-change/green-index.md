@@ -6,12 +6,12 @@ It is for people with backgrounds in research and is adapted from [Greg Wilson's
 
 ## Workshop Lessons
 
-1. [Introduction](01-introduction.md) - what this training does and doesn't cover
-2. [Goals, Strategies, and Tactics](02-gst.md) - deciding what to do and how to do it
-3. [Power](03-power.md) - figuring out who has it and how to influence them
-4. [Starting](04-starting.md) - where and how to begin
-5. [Finishing](05-finishing.md) - closing the deal and what happens afterward
-6. [Conclusion](06-conclusion.md) - a few more tips and a modest proposal
+1. [Introduction](01-green-introduction.md) - what this training does and doesn't cover
+2. [Goals, Strategies, and Tactics](02-green-goals-strategies-tactics.md) - deciding what to do and how to do it
+3. [Power](03-green-power.md) - figuring out who has it and how to influence them
+4. [Starting](04-green-starting.md) - where and how to begin
+5. [Finishing](05-green-finishing.md) - closing the deal and what happens afterward
+6. [Conclusion](06-green-conclusion.md) - a few more tips and a modest proposal
 
 ## Format
 
