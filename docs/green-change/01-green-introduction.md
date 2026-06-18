@@ -1,129 +1,136 @@
-Advocacy for institutional environmental sustainability 
+# Advocacy for institutional environmental sustainability 
+
+!!! Learning Outcomes "Learning Outcomes from the Course"
+
+	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small to large).
+	- Understanding of the main steps in the process of advocacy
+	- Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
+	- Concrete steps to implement a plan. 
 
 This course is designed to give people working in research institutions the knowledge and skills help them advocate for environmental sustainability within their organisations.
 
+The course focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches you how to translate concern about the environmental impact of digital research into effective, purposeful action within your organisation
 
-
-Introduction
-
----
-learning_outcomes:
-Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small to large).
-Understanding of the main steps in the process of advocacy
-Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
-Concrete steps to implement a plan. 
----
+<!-- end: type -->
 
 <!-- type: concept -->
 
-## Introduction to the course
+- The course is heavily based on Greg Wilson's course on [Organisational Change](https://gvwilson.github.io/change/)
 
-This course focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches TO BE COMPLETED and 
-gives you some tools and strategies to advocate for change within a research organisation.
+- It  focuses on advocacy for environmental sustainability within a digital research context. 
 
-This course focuses on advocacy and organisational change within an environmental / digital research context.
-Utilises strategies, theories and methods appropriate to environmental change and to advocacy. 
-This course is heavily based on Greg Wilson’s course on Organisational Change (https://gvwilson.github.io/change/)
- Course is designed to allow you design your own advocacy plan, or to simply learn how to develop plans using examples
+- It is designed to allow you design your own advocacy plan, or to simply learn how to develop plans using examples
 
----
+<!-- end: type -->
 
-Advocacy and Organisational Change
+# Introduction to Advocacy and Organisational Change
 
----
-learning_outcomes:
-What advocacy is (and isn’t)
-Different types of advocacies
-Key components of advocacy
+!!! Learning Outcomes
 
-guiding_questions:
-To be added
----
+	- What advocacy is (and isn't)
+	- Different types of advocacies
+	- Key components of advocacy
 
-<!-- type: quote -->
 
-“Advocacy: public support for an idea, plan, or way of doing something” 
-– Cambridge dictionary
+<!-- end: type -->
 
-“Advocacy is the set of activities by individuals or groups intended to influence decisions within political, economic, and social institutions.” 
-– Wikipedia
-----
+<!-- type: concept -->
 
 ## What is Advocacy?
+
 There is no single definition of advocacy
 
-If you google the word “advocacy” you’ll quickly find that there are many different types; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law. 
+	"Advocacy: public support for an idea, plan, or way of doing something" 
+	– Cambridge dictionary
+
+	"Advocacy is the set of activities by individuals or groups intended to influence decisions within political, economic, and social institutions." 
+	– Wikipedia
+
+<!-- end: type -->
 
 <!-- type: concept -->
 
-### Some types of advocacy 
+	"Advocacy is a process. It requires patience, strategy, and commitment" 
+	- [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf)
 
-Systems advocacy = broad change across society, laws, or multiple organisations 
+<!-- end: type -->
 
-Institutional advocacy = subset of systems advocacy, targeted change within a specific organisation or institution
+<!-- type: concept -->
+
+## Types of Advocacy 
+
+There are many different types of advocacy; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law). 
+
+- **Systems advocacy** = broad change across society, laws, or multiple organisations 
+
+- **Institutional advocacy** = subset of systems advocacy, targeted change within a specific organisation or institution
+
+<!-- slide break -->
 
 Systems advocacy can drive much deeper, more lasting change than individual actions alone
 
----
-
-In this course we are focusing on institutional advocacy, which is where individuals or groups seek to influence organisations and systems so that policies, procedures, and practices are improved.
+Here we are focusing on institutional advocacy, which is where individuals or groups seek to influence organisations and systems so that policies, procedures, and practices are improved. 
 
 
-<!-- type: concept -->
-
-## What advocacy isn’t
-Advocacy is not just complaining or expressing frustration without a clear aim 
-It is not a one-off opinion, but a purposeful attempt to influence change 
-It is not simply giving information without trying to affect decisions or practice 
-It is not always formal, and not always big. 
----
+<!-- end: type -->
 
 <!-- type: concept -->
+
+## What advocacy isn't
+
+- Advocacy is not just complaining or expressing frustration without a clear aim 
+- It is not a one-off opinion, but a purposeful attempt to influence change 
+- It is not simply giving information without trying to affect decisions or practice 
+- It is not always formal, and not always big. 
+
+
+<!-- end: type -->
 
 ## Advocacy vs Activism
-Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement 
-Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
----
 
-## Examples of advocacy working successfully
-<!-- type: question -->
+- Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement 
+- Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
 
-!!! question "Question to class"
+<!-- type: exercise -->
 
-    can you think of any examples of systems advocacy?  
----
+!!! question 
 
-<!-- type: example-->
+    Discussion: Can you think of any examples of external systems advocacy?
+    An example of where somone outside of the system has created change.  
 
-Systemic Advocacy driven from someone external to the organisation.
-In my area of Scotland, children get Friday afternoons off school, but in the younger years the council is obliged to give them a packed lunch – so every Friday thousands of children were give a sandwich, snack and plastic bottle of water, most of these children then took the lunch home to eat them.  Essentially, creating significant amounts of plastic waste.    A mum made a petition to make the bottle of water optional, so could have it if wanted, but decline if not.  Changing a system, saving money and reducing waste. https://www.edinburghlive.co.uk/news/edinburgh-news/east-lothian-mum-says-trip-22180718 
----
+<!-- end: type -->
 
-<!-- type: question-->
+!!! Example "Systemic Advocacy driven from someone external to the organisation."
 
+	In parts of Scotland, younger children who have Friday afternoons off school are given a packed lunch by the council — including a plastic bottle of water — even if they don't need one. Most bottles went home unopened, creating unnecessary plastic waste.
+
+	A local mum petitioned to make the water bottle opt-in rather than automatic. A small change, but it saved money and cut waste. ([See article](https://www.edinburghlive.co.uk/news/edinburgh-news/east-lothian-mum-says-trip-22180718))
 
 
-What are the characteristics of the change that made is successful?
-
----
 <!-- type: concept -->
 
 ## Introduction to organisational change 
+
 The process of organisations changing their policies, practices, culture, or systems 
 
 In environmental sustainability, this often means reducing environmental impact and improving resource efficiency. 
 
+<!-- slide break -->
+
 It may involve changes to: 
-Environmental policies (e.g. waste, energy, procurement) 
-Operational practices (e.g. recycling, transport, resource use) 
-Organisational culture (e.g. sustainability values, training and behaviours) 
-Systems and infrastructure (e.g. energy systems, supply chains) 
+
+- Environmental policies (e.g. waste, energy, procurement) 
+- Operational practices (e.g. recycling, transport, resource use) 
+- Organisational culture (e.g. sustainability values, training and behaviours) 
+- Systems and infrastructure (e.g. energy systems, supply chains) 
+
+<!-- slide break -->
 
 Organisational change is often driven by external pressures such as regulation, public expectation but can also be driven by advocacy from within the organisation.
 
----
+<!-- end: type -->
 
-<!-- type: concept -->
+
 ## How advocacy and organisational change link together
 
 Systems / institutional advocacy can play an important role in driving environmental improvements within organisations
@@ -136,119 +143,153 @@ It can encourage organisations to adopt more sustainable policies and procedures
 Staff, students, customers, or communities often act as advocates for greener practices
 
 Organisational change often happens when internal institutional advocacy creates pressure, awareness, and practical solutions
----
+
+
 
 <!-- type: concept -->
 
-Scale (big and small are both ok)
+- Scale (big and small are both ok)
 
-Advocacy can happen on a small scale or large scale, but both can lead to meaningful change
+- Advocacy can happen on a small scale or large scale, but both can lead to meaningful change
 
-Small-scale advocacy often focuses on specific issues within a single organisation (institutional advocacy) e.g. changing one policy, practice, or routine, often quicker to implement and easier to measure impact
+- Small-scale advocacy often focuses on specific issues within a single organisation (institutional advocacy) e.g. changing one policy, practice, or routine, often quicker to implement and easier to measure impact
 
-Large-scale advocacy (systems advocacy) aims to influence multiple organisations, sectors, or government policy, e.g. national environmental laws or widespread industry change
+<!-- slide break -->
 
-Both scales are important and often connected small institutional changes can build momentum for wider systems change large-scale change often starts with small local advocacy actions
----
+- Large-scale advocacy (systems advocacy) aims to influence multiple organisations, sectors, or government policy, e.g. national environmental laws or widespread industry change
 
-<!-- type: question-->
- you think of any examples of internal systems advocacy?   
-What change resulted from it
-What are the characteristics of the change that made is successful
----
+- Both scales are important and often connected small institutional changes can build momentum for wider systems change large-scale change often starts with small local advocacy actions
+
+<!-- end: type -->
+
+<!-- type: exercise -->
+
+!!! question "Reflection"
+
+	- Can you think of any examples of internal systems advocacy?   
+	- What change resulted from it
+	- What are the characteristics of the change that made is successful
+
+<!-- end: type -->
+
+<!-- type: framework-->
+
+We often see the result of the change, not the process behind it. 
+
+So we often don't have the chance to learn from the process. 
+
+<!-- end: type -->
 
 <!-- type: concept-->
 
 ## Advocacy cycle 
-There are a number of different ways of , in this course we have adapted the Advocacy Cycle from UNICEF (https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) this will also form the structure of the rest of the course
+There are a number of different ways of structuring advocacy, in this course we have adapted the Advocacy Cycle from [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) this will also form the structure of the rest of the course
 
+<!-- end: type -->
 
-<!-- type: concept -->
+<!-- type: concept-->
+
+![Advocacy Cycle](Advocacy Cycle.png)
+
+<!-- end: type -->
 
 ## The 5-Step Advocacy Cycle
 
-STEP ONE: Problem Analysis / Understanding the Issue 
+**STEP ONE: Problem Analysis / Understanding the Issue** 
 Research and gather evidence to better understand the problem. The more you know, the better equipped you are to act.
 
-STEP TWO: Stakeholder Analysis 
+**STEP TWO: Stakeholder Analysis** 
 Identify who is affected, who has the power to create change, and what influences their decisions. 
 
-STEP THREE: Development a Plan 
+**STEP THREE: Develop a Plan** 
 Create an advocacy plan covering: a problem statement, stakeholder analysis, target audiences, key messages, strategies and tactics (optional: a monitoring and evaluation framework).
 
-STEP FOUR: Implementation 
+
+**STEP FOUR: Implementation** 
 Put the plan into action. Start by raising awareness, then build coalitions of support. Engage decision-makers through a mix of approaches
 
-STEP FIVE: Follow Up 
+**STEP FIVE: Follow Up** 
 Assess progress against objectives, hold decision-makers accountable to any commitments made, and maintain relationships with contacts built throughout the process for future collaboration.
 
 This is likely to be an iterative process! 
----
 
+
+
+<!-- type: concept -->
 # Section 1 - Understand the Issue
+<!-- end: type -->
 
----
-learning_outcomes:
-Improved awareness and understanding of relevant environmental sustainability policies.
----
+!!! Learning Outcomes
+
+	- Improved awareness and understanding of relevant environmental sustainability policies.
+	- Familiarity with the concordat for environmentally sustainable research
+	- Familiarity with relevant funders policies
+	- Awareness of using policies to build an argument
+
+
 
 <!-- type: quote-->
 
-“Describe how you will undertake your proposed research in an environmentally sustainable way.” 
-– Wellcome Funding Application Form
-https://cms.wellcome.org/sites/default/files/2021-08/sample-full-app-form-wellcome-discovery-award.pdf
+!!! quote
 
----
+	"Describe how you will undertake your proposed research in an environmentally sustainable way." 
+	– [Wellcome Funding Application Form](https://cms.wellcome.org/sites/default/files/2021-08/sample-full-app-form-wellcome-discovery-award.pdf)
+
+<!-- end: type -->
 
 ## Understanding the Issue: Environmental Policy
 
-Step ONE of the advocacy cycle is to better understand the issue. As this course focuses on environmental sustainability within research organisations, there are some common concepts that will help us to understand the issue.
+Step one of the advocacy cycle is to better understand the issue. As this course focuses on environmental sustainability within research organisations, there are some common concepts that will help us to understand the issue.
 
 One big factor in environmental sustainability are high-level policies.
-
-
-<!-- type: quote-->
-
-Environmental Policy 
-“Our vision is to lead by example by embedding environmental sustainability across all aspects of research and innovation” – UKRI Environmental Strategy (2025)
----
 
 <!-- type: concept-->
 
 ## Concordat for the Environmental Sustainability of Research and Innovation Practice
 
-The Concordat for the Environmental Sustainability of Research and Innovation Practice is a voluntary agreement, published in April 2024 and hosted by Wellcome, co-developed by over 25 organisations across the UK research and innovation sector. 
+The [Concordat for the Environmental Sustainability of Research and Innovation Practice](https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat) is a voluntary agreement, published in April 2024 and hosted by Wellcome, co-developed by over 25 organisations across the UK research and innovation sector. 
+
+<!-- end: type -->
+
+<!-- type: exercise -->
+
+!!! question "Reflection"
+
+Have you heard of the concordat? Is your institution a signatory?
+
+<!-- end: type -->
 
 It represents a shared ambition for the UK to continue delivering cutting-edge research, but in a more environmentally responsible and sustainable way. 
 
 Signatories agree to work individually and collectively to ensure the future design and practice of UK research and innovation is environmentally sustainable. 
 
----
-
 Six priority areas
-Leadership and system change
-Sustainable infrastructure (buildings, digital infrastructure, labs, equipment)
-Sustainable procurement (circular economy principles, supply chains)
-Emissions from business and academic travel
-Collaborations and partnerships
-Environmental impact and reporting data
 
-What signing commits you to
-Publishing a letter from the head of organisation within 6 months
-Referencing the concordat in at least one prominent strategy or policy document
-Publishing an annual progress summary with priority actions for the year ahead
-Nominating a senior leader to sign off annual reporting
+- Leadership and system change
+- Sustainable infrastructure (buildings, digital infrastructure, labs, equipment)
+- Sustainable procurement (circular economy principles, supply chains)
+- Emissions from business and academic travel
+- Collaborations and partnerships
+- Environmental impact and reporting data
 
 <!-- type: concept-->
 
-Annual Reporting
-Signatories commit to reporting annually on their website, covering:
-Total carbon emissions (scope 1 and 2) from direct operations
-Scope 3 emissions, with the most relevant categories being business travel, waste, supply chain, and investments
-Carbon offsets, if used
-Qualitative reporting is also expected, covering areas like biodiversity, water, waste, single use materials, and pollution.
+What signing commits you to
 
----
+- Publishing a letter from the head of organisation within 6 months
+- Referencing the concordat in at least one prominent strategy or policy document
+- Publishing an annual progress summary with priority actions for the year ahead
+- Nominating a senior leader to sign off annual reporting
+
+<!-- end: type -->
+
+Signatories to the concordat commit to reporting annually on their website, covering:
+
+- Total carbon emissions (scope 1 and 2) from direct operations
+- Scope 3 emissions, with the most relevant categories being business travel, waste, supply chain, and investments
+- Carbon offsets, if used
+- Qualitative reporting is also expected, covering areas like biodiversity, water, waste, single use materials, and pollution.
+
 
 Reporting should be proportionate to the size and maturity of the organisation, and should use existing frameworks where possible (for HEIs, this would be the HESA Estates Management Record and the HE Standardised Carbon Emissions Framework) rather than creating new bureaucracy.
 
@@ -256,283 +297,400 @@ Reporting should be proportionate to the size and maturity of the organisation, 
 
 	If your institution is a signatory, this annual report should exist and be publicly available on their website.
 
+<!-- end: type -->
+
+
 <!-- type: concept -->
 
-### Concordat for the Environmental Sustainability of Research and Innovation Practice
+The concordat is voluntary, but Wellcome requires organisations it funds in the UK to be signatories by the end of 2024, and Cancer Research UK similarly requires funded institutions to become signatories. **So, for many institutions, signing is effectively a funding condition.** 
 
-It's voluntary, but Wellcome requires organisations it funds in the UK to be signatories by the end of 2024, and Cancer Research UK similarly requires funded institutions to become signatories. So, for many institutions, signing is effectively a funding condition. 
+<!-- end: type -->
 
 It covers six key areas, including transparency about the environmental impacts of research and finding new climate-conscious, low-carbon approaches. 
+
 The Concordat is a sector-wide commitment to embed sustainability into research practice (not just buildings and operations) with major funders using it as a compliance lever.
 
-https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat 
-
-----
 
 <!-- type: concept -->
 
-## UKRI Environmental Sustainability Policy
+## UKRI Environmental Sustainability Strategy 2025–2030
 
-https://www.ukri.org/publications/ukri-environmental-sustainability-strategy/ukri-environmental-sustainability-strategy-2025-to-2030/ 
+UK Research and Innovation (UKRI) is the UK's main public funder of research and innovation.  
+ and its environmental sustainability strategy sets expectations that ripple through to the institutions and researchers it funds.
 
-ADD MORE TEXT
----
+<!-- end: type -->
+
+<!-- type: quote -->
+!!! quote
+
+	"Our vision is to lead by example by embedding environmental sustainability across all aspects of research and innovation."
+	– UKRI Environmental Sustainability Strategy (2025–2030)
+
+<!-- end: type -->
+
+
+<!-- type: concept -->
+
+The [UKRI Environmental Sustainability Strategy 2025–2030](https://www.ukri.org/publications/ukri-environmental-sustainability-strategy/ukri-environmental-sustainability-strategy-2025-to-2030/) sets out UKRI's ambitions across six priority areas:
+
+Organisational leadership, sustainable infrastructure, Supply chain and resource management, investments and collaborations, climate-conscious travel, environmental impact and reporting data.
+<!-- end: type -->
+
+
+
+- **Organisational leadership** – visible and credible commitment from senior leaders, environmental literacy training for all staff, and active sharing of good practice across the R&I sector
+- **Sustainable infrastructure** – decarbonising UKRI-owned and operated facilities, transitioning to renewable energy, and ensuring facilities are climate-resilient
+- **Supply chain and resource management** – embedding circular economy principles and sustainable procurement across UKRI's operations
+- **Investments and collaborations** – integrating environmental sustainability into funding decisions and partnerships
+- **Climate-conscious travel** – reducing emissions from business and academic travel, building on a 24% reduction already achieved against a 2017–18 baseline
+- **Environmental impact and reporting data** – transparent, consistent measurement and public reporting of progress
+
+<!-- end: type -->
+
+!!! tip
+
+	Notice that these six areas map closely onto the six priority areas of the Wellcome Concordat. This is not a coincidence — UKRI was a co-developer of the Concordat and is now a signatory. When you see alignment between funder and sector-wide policy, that is a strong signal you can use in advocacy.
+
+**What this means for institutions**
+
+UKRI funds the vast majority of publicly funded research in the UK. When UKRI embeds sustainability expectations into its own operations and signals intent to integrate them into funding decisions, institutions have strong incentives to respond — whether or not they are directly required to.
+
+The strategy explicitly frames environmental sustainability as a dimension of research culture, not just estates management. It calls for environmental literacy training, role modelling from senior leaders, and active sharing of good practice across the sector.
+
+<!-- type: framework -->
+
+**For advocates, policies matter because:**
+
+- It gives you a high-authority external reference point when making the case internally
+- It frames the issue as a professional and cultural norm, not just a compliance task
+- It connects individual actions (e.g. a carbon impact statement in a grant application) to a sector-wide direction of travel
+
+<!-- end: type -->
+
 
 <!-- type: concept -->
 
 ## Institutional Environmental Sustainability Policy
 
-Research institutions in the UK will have some statement on environmental sustainability.
+High-level policies like the Concordat and the UKRI strategy matter — but for day-to-day advocacy within your organisation, **your institution's own environmental sustainability policy is often the most powerful tool you have**.
 
-These are important for advocacy because, it shows a high level commitment to the issue. If you can frame your work in the context of the policy 
+<!-- end: type -->
 
----
+This is because it represents a public commitment made by your institution's leadership. When you can show that a proposed change is consistent with — or required by — your institution's own stated policy, you are no longer asking decision-makers to do something new. You are asking them to follow through on something they have already agreed to.
 
-<!-- type: question -->
 
-!!! question "Activity 1 - Find your institution's sustainability policy"
 
-	Is your institution a signatory to the Environmental Sustainability Concordat?  Can you (easily) find their annual environmental reporting? 
 
-	Find your institutions environmental sustainability strategy, where did you find it - how easy was it to locate? 
+Most UK research institutions will have some form of environmental sustainability strategy or policy. Quality and ambition vary considerably. When reading yours, look for:
 
-	Does your institution publish regular environmental performance data (e.g. in an annual report)? How easy was it to find?
-
-	Are there gaps between what the policy promises and what you observe in practice? A gap is a lever - how might you use it?
-
-	
-	Further Questions (Optional)
-
-	Does your institution have a Net Zero emissions target stated? What is it?
-
-	Does your institution offer any sustainability training for researchers or professional staff
-
-	Does the environmental strategy cover research practice (lab work, computing, fieldwork, travel), or mainly operations and estates?
-
-	Are the commitments specific and time-bound, or are they vague aspirations? Look for wording like "aim to", "explore", "consider" — what is actually being promised?
-
-	Does it mention things that have not gone to plan, or is it purely celebratory?
-
----
-<!-- type: concept -->
-# Cause, goals, strategies and tactics explained
-Understand cause, community and contribution
-Understand the difference between cause, goals, strategies and tactics
-See: https://museumofprotest.org/guides/
---- 
 
 <!-- type: concept -->
 
-Terminology
+**What to look for in your institution's policy**
 
-A cause is the underlying reason why the goal matters 
-Human activity is destabilising the climate and destroying biodiversity; the research sector contributes to this, and has a responsibility to change.
+- **Scope** — does it cover research practice or mainly buildings and operations?
+- **Specificity** — are commitments time-bound and measurable? Watch for language like *"aim to explore"*, *"consider opportunities to"*, or *"where possible"* 
+- **Accountability** — who is named as responsible? Is there a governance structure? A named senior lead?
+- **Reporting** — is there publicly available data on progress? 
+- **Gaps** — is there a mismatch between the policy and what you observe in practice?
 
-A goal is something you want to accomplish 
-Make research practice more environmentally sustainable
+<!-- slide break -->
 
-A strategy is a long-term plan to achieve that 
-Embed environmental sustainability as a professional norm across research institutions
+!!! tip
 
-A tactic is a specific action that fits into a larger strategic plan, e.g. 
-Require researchers to include a carbon impact statement in grant applications
-Or, give researchers credit in performance reviews for contributing to Green DiSC certification
+	**A gap is a lever.** If your institution has committed to something publicly and is not yet delivering on it, that is a legitimate and constructive starting point for advocacy. You are not criticising the institution — you are helping it meet its own goals.
 
-Over time, people often confuse strategies with goals 
-Signing the Concordat isn't the goal: changing how research is practiced is
-Policy change isn’t the goal: reducing the environmental impact of research is
-Doing Green DiSC isn’t the goal:  reducing the environmental impact of digital research is
+<!-- end: type -->
 
-Often people focus too narrowly on the tactics, losing sight of how they conflict with or contradict each other within the overall strategy 
+<!-- type: exercise -->
 
-Losing sight of the cause makes it harder to recruit allies, sustain motivation, and explain why the goal is worth pursuing in the first place
----
+!!! question "Activity – Find your institution's sustainability policy"
+
+	- Find your institution's environmental sustainability strategy. Where did you find it — how easy was it to locate?
+
+	- Does your institution publish regular environmental performance data?
+
+	- Are there gaps between what the policy promises and what you observe in practice? How might you use a gap as a lever for advocacy?
+
+<!-- end: type -->
+
+
+<!-- type: concept -->
+# Section 2 - People, Power and Stakeholders
+<!-- end: type -->
+
+!!! Learning Outcomes
+
+	- Understand how power operates in research institutions, and why it matters for advocacy
+	- Be able to identify key stakeholders and map their formal and informal influence
+	- Know how to use stakeholder analysis to decide who to target and how
+	- Be able to create personas of key decision-makers to inform your advocacy strategy
 
 <!-- type: concept -->
 
-CAUSE
-  └── GOAL
-        └── STRATEGY
-                └── TACTIC
-                └── TACTIC
-                └── TACTIC
-Ask "why?" to move up the chain — ask "how?" to move down
+## Why People Are Central to Advocacy
+
+No matter how strong your evidence or how clear your argument, change happens through people.
+
+Understanding who those people are, what they care about, and how they relate to each other is as important as understanding the issue itself.
+
+<!-- end: type -->
+
+<!-- type: concept -->
+
+## Power — What It Is and Who Has It
+
+Formal power structures — org charts, job titles, committees — tell only part of the story.
+
+Decisions are shaped by relationships, incentives, and informal influence as much as by official authority.
+
+<!-- end: type -->
+
+<!-- type: concept -->
+
+One key thing about how institutional decisions get made: the person at the top doesn't need to satisfy everyone. They need to satisfy a much smaller group - the people whose support keeps them in their role. Finding out who that is tells you where to focus."
+
+<!-- end: type -->
 
 
-It’s common to have more than one goal, but be careful of “goal drift” where over time the goals quietly multiply and start pulling in different directions, and nobody notices because everyone is heads-down on tactics. Periodically asking "do all our goals still connect to the same cause?" is a useful discipline.
+## Selectorate Theory
 
----
+Research organisations are not democracies — leaders are not elected by the people they lead.
 
-<!-- type: question -->
+Selectorate theory helps explain how power actually works:
 
-!!! question "Activity 2 – Goals, strategies and tactics"
-
-	In order to reduce the environmental impact of its research, your university has decreed that all new grant applications must include a section estimating the carbon footprint of the proposed work, and that applications which do not include this section will be returned without review.
-
-	Identify the cause, goal, strategy, and tactics in the statement above.
-
-	Identify at least three ways in which this proposal can go wrong.
-
----
-
-## Understanding our cause and goals 
-Describe our cause, goals, community and contribution (which have led to this course) i.e. climate crisis, reduce DRI impact on the environment etc. 
-Other examples and stories
-Identify your organisation and community you wish to target
-
-Identifying your organisation and community
-Identify the organisation you wish to change. 
-Understanding your organisation, your community helps guide your strategy
-e.g. Universities are very different organisations from a commercial entity
-Environmental examples 
-More on community later.
+- **Nominal selectorate** — those who formally have a say
+- **Real selectorate** — those whose views genuinely count
+- **Winning coalition** — the small group whose support is essential to stay in power
 
 
+## What This Means for Advocates
+
+- Decision-makers primarily need to satisfy their winning coalition, not everyone
+- Find out who is in that coalition — these are the people worth influencing
+- A proposal that threatens the winning coalition will be resisted, regardless of its merits
+
+!!! tip
+
+	You don’t need to convince everyone. You need to convince the right people.
 
 
-identifying your cause and goals
-Aim is to help you identify your cause, goals, the community you wish to target and your contribution. 
-strategy and tactics will come later
-The value of personas
-Why use personas?
-Hands on activity - at the end they can either have identified their own cause and goals to develop throughout the course, or have examples they will utilise throughout the course. Create personas suitable for your cause.
+## Exercise: Who’s in Charge?
 
-Why use personas?
-They make abstract "users" or "stakeholders" more concrete - it's easier to design for a specific person than for a category
-They force you to articulate assumptions about who you are trying to reach, which often reveals that different people in your audience have very different needs, constraints, and motivations
-They help identify whose voice is missing — if you can't write a believable persona for a group, you probably don't know enough about them
-They shift the conversation from "what do we want to say" to "what does this person need to hear, and why would they act on it"
-They help you anticipate resistance, e.g. consider a sceptic persona and how you would approach them.
-They are essentially a communication tool; a named, described persona is easier to refer back to in a team than "researchers who are resistant to change”
+1. Who formally makes funding and work allocation decisions in your institution?
+2. Who do they actually need to keep happy — and how do they do that?
 
 
-<!-- type: question-->
+<!-- type: concept -->
 
-entified their own cause and goals to develop throughout the course, or have examples they will utilise throughout the course. Create personas suitable for your cause.
----
+## Power Mapping
 
-## Identifying your contribution 
-As we move through the course you should reflect on the contribution you wish to make. 
-For example on your skill set, your available time, your level of comfort with different activities, etc.
-https://museumofprotest.org/guides/guide-understanding-activism/
-Does this change your goals? As you learn more about tactics and strategies keep this in mind.  
+A practical tool for visualising where power sits in relation to your cause.
 
+- Who has formal authority to approve or block the change you want?
+- Who influences those people, even without formal authority?
+- Who are your potential allies, and who might resist?
 
+<!-- end: type -->
 
-# Section 2 - People - power and stakeholders
+See: [Museum of Protest — Power Analysis and Stakeholder Mapping](https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/)
 
----
-learning_outcomes:
-To be added
-guiding_questions:
-To be added
----
+<!-- type: concept -->
 
+## Stakeholder Analysis
 
-The power of people
-The key to any good strategy is to understand the people you are targeting, who do you wish to advocate to?
-Power mapping
-Greg’s way, also in more detail here:
-https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/
-Stakeholder analysis - Ally, opponent, neutral
-Using your power and stakeholder analysis to determine who to target and why 
-Personas of key power players
-By creating personas of the key power players we can target our advocacy strategy.
-Examples of environmental change targeted at people.
+Once you know where power sits, categorise the people involved:
 
+- **Allies** — broadly supportive; potential collaborators
+- **Opponents** — likely to resist or actively work against change
+- **Neutrals** — not yet engaged; could move in either direction
 
-# Section 3 - Develop a plan
+The goal is not just to identify who is who, but to understand *why* — what are their interests, incentives, and constraints?
 
----
-learning_outcomes:
-To be added
-guiding_questions:
-To be added
----
+<!-- end: type -->
 
+<!-- type: example -->
 
-Relevant organisational change theories
-Not a comprehensive review, but selected theories relevant to advocacy
-Considering these theories can increasing the likely success of your strategy
-The diffusion of innovation theory is widely credited with increasing the change of your strategy being successful.
-Diffusion of innovations model
-Grassroots
-“Switch: How to Change Things When Change Is Hard”
-Greg’s material and https://evaluationinnovation.org/wp-content/uploads/2013/11/Pathways-for-Change.pdf
-https://help.cascade.app/diffusion-of-innovations-change-management-overview
-https://medium.com/capability-innovation/diffusion-change-as-a-social-not-structural-process-4d9783db88c0
+## Worked Example: Greendale University
 
-Approaches to advocacy
-Data driven advocacy
-Storytelling
-Policy engagement
-Use environmental examples throughout
+Greendale is a fictional mid-sized research-intensive UK university. A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university’s carbon footprint.
 
-Developing your strategy, tactics and actions
-Recall these were discussed previously
-This section will consider the strategy you wish to employ - your strategy may employ a series of steps to achieve it and will need to be flexible 
-Examples of environmental strategies delivering success
-Consider where these sit within the framework e.g. top down, bottom up, etc (e.g. Borrego’s conceptual framework)
-Develop an action plan
-Examples of actions
-Utilise personas to help identify suitable actions
-Remember the section on identifying your contribution - use this when planning actions.
+A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university's carbon footprint.
+
+<!-- slide break -->
+<!-- small -->
+
+- **Prof. Sarah Okafor** — Vice-Chancellor. Very high formal power. Low interest — focused on rankings and income.
+- **Dr. James Whitfield** — Head of Research Computing. High formal power. Medium interest — cautious about extra workload.
+- **Dr. Priya Nair** — Sustainability Manager. Very high interest. Low formal power — advisory only.
+- **Prof. Duncan Laird** — Dean of Research. High formal power. Supportive but risk-averse.
+- **Ravi Okonkwo** — RSE, community organiser. Very high interest. Low formal power but high informal influence.
+- **Dr. Hannah Frost** — Head of Finance. Medium formal power. Low interest — can quietly block or enable.
+
+**Understanding the landscape**
+
+- Who has the most power here — formal or informal?
+- Who would you approach first, and why?
+- Who might block this, and how would you get ahead of it?
+- What is Ravi’s role, given he has no formal authority?
+
+<!-- end: type -->
+
+<!-- type: reflection -->
+
+The goal of power mapping isn't to find the one person you need to convince. It's to understand the ecosystem well enough that you can move through it strategically — building support, removing blockers, and arriving at decision-makers with momentum rather than a cold ask.
+
+<!-- end: type -->
+
+## Important Note
+
+Many people find power mapping uncomfortable, particularly if their map includes people who are also in the room.
+
+This discomfort is one of the reasons things don’t get better: thinking consciously about how to change people’s minds makes compassionate people squeamish.
+
+But if we don’t do it, it will be done by people whom it *doesn’t* make uncomfortable.
 
 
+<!-- type: concept -->
 
-Theory of change approach can help you to make the connections between what you’re doing and the change you want to see.
+## Personas of Key Power Players
 
-!!! quote
+A power map tells you who matters. 
+A persona helps you think about how to approach them.
 
+<!-- slide break -->
 
-	“Advocacy is a process. It requires patience, strategy, and commitment” 
-	- https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf
+A useful persona includes:
 
+- **Role and context** — what do they do, and what pressures are they under?
+- **What they care about** — their priorities and incentives
+- **Their likely response** — ally, opponent, or neutral? What might shift them?
+- **How to reach them** — what messages or relationships are most likely to be effective?
 
-Section 4 - Implementing your plan
+<!-- end: type -->
 
----
-learning_outcomes:
-To be added
-guiding_questions:
-To be added
----
+!!! tip
 
-Considerations (use the following from Greg’s course)
-Greg’s what to do first
-Greg’s closing the deal 
-Greg’s Changing minds
-Greg’s Dealing with resistance 
-Compelling messages
-Persuading people
+	Even a rough sketch based on role and public behaviour is better than treating someone as an abstraction. Writing the persona often reveals gaps in what you know — which is itself useful.
 
 
+!!! question "Activity: Write a persona"
+
+	Choose one person from the Greendale power map and write a short persona using the structure above.
+
+	Consider: What would make them say yes? What would make them say no?
+
+<!-- end: type -->
 
 
+## Using Your Analysis to Decide Who to Target
 
-Section 5 - Evaluation and self-reflection
+<!-- type: concept -->
+Who to Target
 
----
-learning_outcomes:
-To be added
-guiding_questions:
-To be added
----
+- **Start with allies, not decision-makers** — arrive with support, not alone
+- **Don’t neglect neutrals** — they are often more valuable to win over than opponents
+- **Match your message to the person** — what “matters” means something different to a sustainability manager and a head of finance
+- **Informal influence often matters more than formal authority** — a trusted peer can open doors a formal proposal cannot
 
-Evaluation strategies
-Self reflection
-Reflect on you - your time, skills, mental health, career
+<!-- end: type -->
 
+!!! question "Activity: Targeting strategy"
 
-Conclusion
+	Using the Greendale power map and your personas:
 
+	1. Who will you approach first, and why?
+	2. What is your core message, and how will you adapt it for different people?
+	3. Who might resist, and how will you respond?
+	4. What does a realistic first step look like?
 
+<!-- end: type -->
 
-Environmental Sustainability
+# Section 3 - Develop a Plan
 
-Additional training – SparkHUB 
-EMBL 
+!!! Learning Outcomes
 
+	- Understand the relationship between cause, goal, strategy, and tactic
+	- Be able to apply the framework to a real advocacy scenario
+	- Recognise common pitfalls such as goal confusion and goal drift
 
+!!! tip
 
+	Advocates have created great changes in the world — contributing to the end of segregation in the USA, votes for women, marriage equality, and much more. The [Museum of Protest](https://museumofprotest.org/guides/) is a fascinating resource with real examples and practical theory.
 
+<!-- type: concept -->
+
+Cause, Goal, Strategy, Tactic
+
+**Cause** — the underlying reason why the goal matters
+*e.g. Research contributes to climate change, and has a responsibility to change*
+
+**Goal** — something you want to accomplish
+*e.g. Make research practice more environmentally sustainable*
+
+**Strategy** — a long-term plan to achieve that goal
+*e.g. Embed environmental sustainability as a professional norm across research institutions*
+
+**Tactic** — a specific action within the strategy
+*e.g. Require a carbon impact statement in grant applications*
+<!-- end: type -->
+
+<!-- type: concept -->
+
+## Navigating the Chain
+
+		CAUSE
+
+      └─— GOAL
+
+        └─— STRATEGY
+
+            └─— TACTIC
+
+            └─— TACTIC
+
+            └─— TACTIC
+
+**Ask “why?” to move up — ask “how?” to move down**
+
+<!-- end: type -->
+
+<!-- type: concept -->
+
+## Common Pitfalls
+
+**Confusing tactics with goals**
+- Signing the Concordat isn’t the goal: changing research practice is
+
+**Goal drift** — goals quietly multiply over time, pulling in different directions, while everyone is heads-down on tactics
+
+**Losing sight of the cause** makes it harder to recruit allies and sustain motivation
+
+<!-- end: type -->
+
+<!-- type: exercise -->
+
+!!! question "Activity – Goals, strategies and tactics"
+
+	Your university has decreed that all new grant applications must include a section estimating the carbon footprint of the proposed work. Applications without this section will be returned without review.
+
+	- Identify the cause, goal, strategy, and tactic in the statement above
+	- Identify at least three ways this proposal could go wrong
+
+<!-- end: type -->
+
+<!-- type: concept -->
+
+## Understanding Your Contribution
+
+As you develop your advocacy plan, reflect on what you personally can bring:
+
+- Your skills and expertise
+- Your available time and energy
+- Your level of comfort with different activities (public speaking, writing, relationship-building)
+
+These factors may shape your goals.
+
+<!-- end: type -->
+
+See: [Museum of Protest — Understanding Activism](https://museumofprotest.org/guides/guide-understanding-activism/)

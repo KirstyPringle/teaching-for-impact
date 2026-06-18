@@ -5,7 +5,7 @@ on:
     branches:
       - master
       - main
-      - add-green-change-slides
+##      - add-green-change-slides
 
 permissions:
   contents: write
@@ -42,8 +42,7 @@ jobs:
         run: pip install mkdocs-material mkdocs-glightbox mkdocs-macros-plugin python-md2docx w3lib beautifulsoup4
 
       - name: Build presentations
-###        run: python scripts/build_presentations.py
-        run: python scripts/build_slides.py
+        run: python scripts/build_presentations.py
 
       - name: Build downloadable activities
         run: python scripts/build_downloads.py

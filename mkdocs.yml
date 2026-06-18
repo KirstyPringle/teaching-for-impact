@@ -106,6 +106,7 @@ nav:
   - Home: index.md
 ##  - Pre-work: pre-work/index.md
   - Introduction: introduction.md
+  - Background: background.md
   - Green Change:
       - Overview: green-change/green-index.md
       - 1. Introduction: green-change/01-green-introduction.md
