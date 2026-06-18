@@ -1,189 +1,125 @@
 # Glossary
 
-This glossary defines key concepts used throughout the workbook.  
-Terms are grouped to reflect how they are used in practice.
+Key terms used in this course, in alphabetical order.
 
 ---
 
-## Systems and Impact
+**Activism**
+Public-facing action aimed at raising awareness and applying pressure for change — demonstrations, strikes, campaigns. Distinct from advocacy, which works primarily through dialogue and structured engagement. The two often complement each other.
 
-**Training as an intervention**  
-Training is a deliberate action within a broader system of people, resources, relationships, constraints, and external influences. Its effectiveness depends on how it interacts with this system.
+**Advocacy**
+A purposeful, sustained effort to influence decisions within organisations, systems, or institutions. Not a one-off opinion, not a complaint, and not the same as simply sharing information. Advocacy is strategic: it aims to change what decision-makers do.
 
-**Theory of Change**  
-A structured explanation of how training activities are expected to lead to outputs, outcomes, and longer-term impact.
+**Advocacy cycle**
+A five-step framework for structuring an advocacy campaign, adapted in this course from UNICEF. The steps are: understand the issue, stakeholder analysis, develop a plan, implement the plan, and follow up and evaluate. The cycle is iterative — each round informs the next.
 
-**Outputs, outcomes, and impact**  
-- **Outputs**: Immediate products of training (e.g. completed tasks, materials)  
-- **Outcomes**: What participants do differently after training  
-- **Impact**: Longer-term change resulting from those outcomes  
+**Allies**
+People who are broadly supportive of your cause and are potential collaborators. In stakeholder analysis, distinguishing allies from neutrals and opponents helps you decide where to focus your energy first.
 
-**Constraints (system conditions)**  
-Real-world factors such as time, access, infrastructure, and power dynamics that shape what is possible in training design. Constraints are not just limitations—they are conditions you design within.
+**Cause**
+The underlying reason why your goal matters — the "why" behind the work. For example: *research contributes to climate change, and has a responsibility to change.* Keeping the cause visible helps sustain motivation and makes it easier to recruit others.
 
-**Positionality**  
-The role, background, and influence of the facilitator or designer, which shapes decisions, priorities, and participation.
+**Coalition**
+A group of people whose combined support is sufficient to get a change approved. You do not need everyone — you need enough of the right people. Building a coalition is often the central task of the implementation phase.
 
----
+**Concordat for the Environmental Sustainability of Research and Innovation Practice**
+A voluntary sector-wide agreement, published in 2024 and hosted by Wellcome, committing signatories to embedding environmental sustainability across research practice. Major funders including Wellcome and Cancer Research UK require the organisations they fund to become signatories, making it effectively a funding condition for many institutions.
 
-## Learners and Context
+**Connector**
+Someone who is trusted across different parts of an organisation and knows a wide range of people. Connectors are valuable early allies because they help spread the word and bridge groups. They tend to operate on reciprocity — expect to support their causes in return.
 
-**Primary and secondary audiences**  
-- **Primary audience**: Direct participants in the training  
-- **Secondary audience**: People those participants later support, train, or influence  
+**Decision owner**
+The person with formal authority to approve the change you are seeking. Decision owners should generally not be your first contact — approach them once you have built a coalition, not before.
 
-**Needs assessment**  
-A practical process to understand what learners need to do, what they already know, and what constraints they face.
+**Diffusion of Innovations**
+A model describing how a new idea or practice spreads through a group. The five stages are: knowledge (awareness), persuasion (forming an attitude), decision (to adopt, ignore, or reject), implementation (actually doing it), and confirmation (becoming normal or fading). People can drop out at any stage, including after saying yes.
 
-**Learner realities**  
-The conditions shaping participation and learning, including access, time, language, culture, and responsibilities.
+**Goal**
+Something concrete you want to accomplish — the specific change you are advocating for. Distinct from a cause (which is broader) and a strategy (which is the plan to get there). A good goal is observable: you can tell whether you have achieved it.
 
-**Lived experience and prior knowledge**  
-The knowledge, mental models, and experiences learners bring, which new learning should connect to.
+**Goal drift**
+The tendency for goals to quietly multiply or shift over time as people focus on tactics. A common pitfall in advocacy: everyone is busy doing things, but the original goal has moved without anyone explicitly deciding to change it.
 
----
+**Guru**
+Someone widely respected for their expertise or judgement in your organisation or field. A Guru's endorsement carries weight precisely because they are selective. If they back your idea, others take notice.
 
-## Learning and How It Works
+**Impact**
+The broadest level of change — actual emissions reduced, institutional culture genuinely shifted, other organisations influenced. Distinct from outputs (what you did) and outcomes (what changed as a direct result). Most early-stage advocacy cannot yet claim impact, and it is important to be honest about this distinction.
 
-**Cognitive load**  
-The amount of information learners can process at once; excessive load reduces understanding and retention.
+**Informal influence**
+The ability to shape decisions and opinions without formal authority. Often more significant than job title suggests. A trusted peer, a well-connected RSE, or a respected researcher without a management role may all have substantial informal influence.
 
-**Retrieval**  
-Recalling knowledge from memory, which strengthens learning more effectively than re-exposure.
+**Innovator**
+Someone who is constantly trying new things. Innovators are often enthusiastic allies, but their endorsement is less persuasive than it looks — people know they champion many ideas, not all of which succeed.
 
-**Reinforcement (spacing)**  
-Revisiting ideas over time and across contexts to improve retention and transfer.
+**Institutional advocacy**
+Advocacy aimed at changing policies, practices, or culture within a specific organisation. A subset of systems advocacy. The primary focus of this course.
 
-**Social learning**  
-Learning through interaction, discussion, collaboration, and shared problem-solving.
+**Metis**
+Practical knowledge acquired through experience — knowing how to navigate a specific situation, adapted to circumstances, rather than following a fixed rule. Organisational change requires metis. Contrast with *techne*.
 
-**Active learning**  
-Learning through doing, discussing, analysing, or applying, rather than passively receiving content.
+**Nominal selectorate**
+In selectorate theory: everyone who formally has a say in decisions within an organisation. The full theoretical pool of influence, most of whom have little real power over any given decision.
 
-**Scaffolding**  
-Providing structured support early in learning and gradually reducing it as learners gain independence.
+**Neutrals**
+People who are not yet engaged with your cause and could move in either direction. Often more valuable to win over than opponents, because they are persuadable. Do not neglect them in favour of focusing on those who already agree with you.
 
-**Psychological safety**  
-A learning environment where participants feel safe to contribute, make mistakes, and revise their thinking.
+**Opponents**
+People who are likely to resist or actively work against the change you are seeking. Not all opposition is equal — some can be brought around, some cannot. Knowing which is which matters for how you spend your time.
 
----
+**Organisational change**
+The process by which an organisation changes its policies, practices, culture, or systems. In an environmental sustainability context, this might include changes to energy use, procurement, travel policy, research practices, or institutional culture. Organisational change is what successful advocacy produces.
 
-## Design and Alignment
+**Outcomes**
+Changes that result from your advocacy activity — a new policy adopted, a behaviour shifted, a commitment made by a decision-maker. Distinct from outputs (what you did) and harder to measure, but what actually matters.
 
-**Learning outcomes**  
-Clear, observable statements describing what learners should be able to do by the end of the training.
+**Outputs**
+What you produced or did — workshops run, meetings held, documents submitted, people trained. Outputs are the most visible and easiest to count, but they do not tell you whether anything actually changed as a result.
 
-**Backward design**  
-A design approach that starts with learning outcomes, defines evidence of success, then designs activities and supporting content.
+**Persona**
+A sketch of a key stakeholder that goes beyond their job title to capture what they care about, what pressures they are under, and how they are likely to respond to your proposal. Even a rough persona is more useful than treating someone as an abstraction.
 
-**Alignment (constructive alignment)**  
-Ensuring learning outcomes, activities, and assessment support the same capabilities.
+**Policy engagement**
+An approach to advocacy that uses existing institutional and funder commitments — such as the Concordat or the UKRI strategy — to frame a proposal as consistent with what decision-makers have already publicly agreed to. Often the most effective lever inside research institutions.
 
-**Activities (learning activities)**  
-Structured tasks where learners practise, apply, and demonstrate learning.
+**Power mapping**
+A practical tool for visualising where power sits in relation to your cause. Involves identifying who has formal authority over the change you want, who influences those people, and where you sit in the diagram. Helps you decide who to approach, in what order, and through whom.
 
-**Content (supporting content)**  
-Information and resources that support participation in activities, not the driver of design.
+**Real selectorate**
+In selectorate theory: the people whose views genuinely count in practice, as opposed to those who formally have a say. Smaller than the nominal selectorate; understanding who is in it tells you where influence actually lies.
 
-**Misalignment**  
-A disconnect between outcomes, activities, assessment, or content that reduces effectiveness.
+**Scope 1 emissions**
+Direct greenhouse gas emissions from sources owned or controlled by an organisation — for example, fuel burned in organisation-owned vehicles or boilers.
 
-**Fit for purpose**  
-The extent to which a resource or activity supports the intended learning outcomes and works in the specific learner and context conditions.
+**Scope 2 emissions**
+Indirect emissions from purchased energy — primarily electricity and heat bought from external suppliers.
 
----
+**Scope 3 emissions**
+All other indirect emissions associated with an organisation's activities — including business travel, supply chains, waste, and (for universities) the activities of funded researchers. Often the largest and hardest-to-measure category for research institutions.
 
-## Participation, Co-Design, and Co-Creation
+**Selectorate theory**
+A framework for understanding how power operates in organisations and states. Key insight: decision-makers primarily need to satisfy a small group — the winning coalition — not everyone. This shapes who is worth trying to influence and why.
 
-**Co-design**  
-Participants help shape decisions about the training (e.g. priorities, structure, activities).
+**Stakeholder analysis**
+The process of identifying everyone relevant to your advocacy campaign, understanding their position, and deciding how to engage with them. Distinguishes allies, opponents, and neutrals, and considers both formal authority and informal influence.
 
-**Co-creation**  
-Participants contribute ideas, examples, or outputs during activities or material development.
+**Strategy**
+A long-term plan for achieving your goal. Distinct from tactics, which are specific actions within the strategy. A strategy might involve multiple rounds of activity over months or years. Strategies should serve goals — watch for the tendency to treat the strategy as the goal itself.
 
-**Meaningful participation**  
-Learners actively contribute and have influence, rather than passively receiving content.
+**Systems advocacy**
+Advocacy aimed at driving change across multiple organisations, laws, or society more broadly. Deeper and more lasting than individual actions, but slower and harder to initiate from within a single institution. Institutional advocacy often contributes to systems change over time.
 
-**Trade-offs**  
-Design decisions balancing competing priorities such as time, depth, participation, and complexity.
+**Tactic**
+A specific action that fits within a broader strategy — for example, running a workshop, submitting a policy proposal, or securing an endorsement from a senior figure. Tactics should be chosen because they serve the strategy and goal, not because they feel productive.
 
----
+**Techne**
+Knowledge in the form of hard-and-fast rules, often derived from first principles. Useful in many contexts, but insufficient for organisational change, which requires *metis* — the ability to adapt to circumstances that are always slightly different from the last ones.
 
-## Practice, Feedback, and Iteration
+**Theory of change**
+A way of making explicit the connection between what you are doing and the change you want to see. Expressed as: *if we do X, then Y will happen, because Z.* Writing it down forces you to name your assumptions and spot where your plan might break down.
 
-**Practice**  
-Opportunities for learners to apply knowledge or skills in realistic tasks aligned with outcomes.
+**UKRI Environmental Sustainability Strategy 2025–2030**
+The strategy published by UK Research and Innovation setting out its ambitions for environmental sustainability across six priority areas: organisational leadership, sustainable infrastructure, supply chain and resource management, investments and collaborations, climate-conscious travel, and environmental impact and reporting. Because UKRI funds the majority of publicly funded research in the UK, its strategy shapes expectations across the sector.
 
-**Feedback**  
-Information that helps learners improve; effective feedback is specific, timely, and actionable.
-
-**Iteration (learning)**  
-Cycles of attempt, feedback, and revision that support improvement in learner performance.
-
-**Iteration (design and materials)**  
-Ongoing cycles of use, feedback, and improvement that refine training design and materials over time.
-
-**Peer learning**  
-Learning through interaction, feedback, and collaboration between participants.
-
----
-
-## Assessment and Evaluation
-
-**Assessment**  
-Methods used to determine what learners can do, produce, or decide, aligned with learning outcomes.
-
-**Evaluation**  
-Judging whether the training contributed to intended outcomes or broader change over time.
-
-**Indicators**  
-Observable signs that learning or change has occurred.
-
-**Evidence**  
-Information collected to assess indicators and judge success.
-
-**Signal vs noise**  
-Distinguishing meaningful evidence of learning or impact (signal) from less useful or misleading data (noise).
-
----
-
-## Open Educational Resources (OER) and Materials
-
-**Open Educational Resources (OER)**  
-Teaching and learning materials that are openly licensed, allowing reuse, adaptation, and sharing.
-
-**Training materials**  
-Resources used to support training (e.g. slides, activities, guides). These can be reused, adapted, and shared independently of a specific training delivery.
-
-**Reuse, adapt, create**  
-A practical decision framework for working with materials:  
-- **Reuse**: use as is  
-- **Adapt**: modify to fit context  
-- **Create**: develop new materials when needed  
-
-**Reusability**  
-The extent to which a material can be understood and used without additional explanation.
-
-**Adaptation**  
-Modifying a resource so it aligns with learners, context, and outcomes.
-
-**Localisation**  
-Adapting materials to reflect language, culture, and local context.
-
-**Publishability**  
-The extent to which a resource is clear, documented, and ready to be shared and used by others.
-
-**Documentation**  
-Information that explains how and why a resource should be used, including purpose, audience, and instructions.
-
-**Discoverability**  
-How easily others can find and understand a resource.
-
-**Versioning**  
-Tracking changes to materials over time, including what changed, why, and which version is current.
-
-**OER lifecycle**  
-The ongoing process through which materials are reused, adapted, shared, used, improved, and reused again.
-
-**Sustainability (of materials)**  
-Making realistic decisions about how materials are maintained, updated, or archived based on use, relevance, and available capacity.
+**Winning coalition**
+In selectorate theory: the small group whose support is sufficient to keep a decision-maker in power or get a decision made. The key insight is that this group is usually much smaller than it appears. Finding out who is in it tells you who is actually worth influencing.

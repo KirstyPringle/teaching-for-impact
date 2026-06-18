@@ -6,9 +6,9 @@ You may not always have reliable internet access when using this guide.
 
 Having offline access allows you to:
 
-- prepare ahead of time  
-- run sessions in low-connectivity environments  
-- refer back to materials during delivery  
+- prepare ahead of time
+- run sessions in low-connectivity environments
+- refer back to materials during delivery
 
 ---
 
@@ -17,7 +17,7 @@ Having offline access allows you to:
 You can download the complete workbook as a Word document for offline use.
 
 <div class="download-btn-wrapper" markdown="0">
-<a class="md-button download-doc-btn" href="../../downloads/teaching-for-impact-full-book.docx" download>
+<a class="md-button download-doc-btn" href="../../downloads/greening-organisational-change-full-book.docx" download>
 ⬇ Download full workbook (.docx)
 </a>
 </div>
@@ -30,14 +30,10 @@ Once downloaded, open the file in Word, Google Docs, or any compatible word proc
 
 If you only need parts of the guide:
 
-- use your browser’s **Print → Save as PDF**  
-- select the pages you need  
+- use your browser's **Print → Save as PDF**
+- select the pages you need
 
-This works well for:
-
-- individual lessons  
-- activities  
-- activities
+This works well for individual sections, activities, or the glossary.
 
 ---
 
@@ -47,9 +43,9 @@ Activities are designed to work independently.
 
 You can:
 
-- copy them into Word, Google Docs, or Markdown  
-- save them locally  
-- share them with participants  
+- copy them into Word, Google Docs, or Markdown
+- save them locally
+- share them with participants
 
 ---
 
@@ -59,8 +55,8 @@ You do not need everything offline.
 
 Start with:
 
-- the lessons you will teach  
-- the activities you will use  
+- the sections you will teach
+- the activities you will use
 
 Download more only if needed.
 
@@ -68,6 +64,4 @@ Download more only if needed.
 
 ## Related
 
-If you are designing your own materials to work in low-connectivity contexts, see:
-
-👉 Part 2 — Designing for Openness
+If you want to share individual sections with participants or co-facilitators, the slides for each section are also available as standalone downloads from the relevant section pages.

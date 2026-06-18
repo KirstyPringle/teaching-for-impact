@@ -110,10 +110,10 @@ nav:
   - Green Change:
       - Overview: green-change/green-index.md
       - 1. Introduction: green-change/01-green-introduction.md
-      - 2. Goals, Strategies and Tactics: green-change/02-green-goals-strategies-tactics.md
-      - 3. Power: green-change/03-green-power.md
-      - 4. Starting: green-change/04-green-starting.md
-      - 5. Finishing: green-change/05-green-finishing.md
+#      - 2. Goals, Strategies and Tactics: green-change/02-green-goals-strategies-tactics.md
+#      - 3. Power: green-change/03-green-power.md
+#      - 4. Starting: green-change/04-green-starting.md
+#      - 5. Finishing: green-change/05-green-finishing.md
 #  - Part 2 - From Training Design to OER:
 #      - Overview: part-2/index.md
 #      - 1. Designing for Openness: part-2/lesson-1.md
@@ -144,7 +144,8 @@ nav:
   - Download: resources/offline-access.md
   - Resources:
       - Glossary: resources/glossary.md
-      - Bloom's Taxonomy Cheatsheet: resources/blooms-taxonomy.md
-      - A Toolkit for Solving Common Training Challenges: resources/toolkit.md
+#      - Bloom's Taxonomy Cheatsheet: resources/blooms-taxonomy.md
+#      - A Toolkit for Solving Common Training Challenges: resources/toolkit.md
+      - Course Itinerary: resources/course-itinerary.md
       - Additional Topics: resources/additional-topics.md
-      - Teaching This Course: resources/teach-this-course.md
+
