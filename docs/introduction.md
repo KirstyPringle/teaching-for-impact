@@ -1,80 +1,100 @@
 # Introduction
 
-This workbook is designed to shift how you think about training—from delivering content to enabling change in real-world contexts.
+This course is designed to shift how you think about environmental sustainability 
+in your institution — from awareness to action.
 
-It is a practical guide for designing training that leads to meaningful outcomes. It is intended for practitioners working in complex, resource-constrained, and context-specific environments where training must be relevant, usable, and impactful.
+It is a practical guide for designing and implementing advocacy that leads to 
+meaningful change. It is intended for people working in research institutions who 
+care about the environmental impact of research and want to do something about it, 
+but may not yet know where to start.
 
-Training is often approached as a one-time event. This workbook takes a different view. It treats training as an **intentional intervention within a broader system**, shaped by learners, context, constraints, and opportunities.
+Advocacy is often approached as something other people do — activists, 
+campaigners, people with formal roles. This course takes a different view. It 
+treats advocacy as **a practical skill that anyone can develop**, shaped by 
+context, relationships, evidence, and strategy.
 
-It also recognises that training rarely ends with a single delivery. What learners do afterwards—and how materials are reused, adapted, and improved—shapes longer-term impact.
-
----
-
-## How this workbook is structured
-
-This workbook progresses from:
-
-- designing training for real-world impact  
-- to preparing materials for reuse and adaptation  
-- to sharing and improving them over time as Open Educational Resources  
-
-Each section builds on the previous one and can also be revisited independently.
+It also recognises that advocacy rarely produces change overnight. What matters 
+is not a single intervention, but a sustained, thoughtful effort to shift 
+policies, practices, and culture over time.
 
 ---
 
-## How to use this workbook
+## How this course is structured
 
-You can use this workbook:
+This course follows the five steps of the advocacy cycle:
 
-- independently, as a step-by-step guide  
-- alongside a training programme or workshop  
-- as a working document to design or improve your own training  
+- understanding the issue and the policy landscape
+- mapping power and stakeholders
+- developing an advocacy plan
+- implementing your plan
+- evaluating progress and reflecting on your practice
 
-Throughout the workbook, you will find:
+Each section builds on the previous one and can also be revisited independently 
+as your advocacy work develops.
 
-- practical steps and decision points  
-- examples grounded in real contexts  
-- activities to apply directly to your own work  
+---
+
+## How to use this course
+
+You can use this course:
+
+- independently, working through it at your own pace
+- alongside a workshop or community of practice
+- as a working document to design or refine your own advocacy plan
+
+Throughout the course, you will find:
+
+- concepts and frameworks to help you think clearly about advocacy
+- examples grounded in real research institution contexts
+- activities to apply directly to your own situation
 
 !!! tip
-    Engage actively with the workbook. Apply each section to your own context as you progress.
+    Engage actively with the course. The activities are most valuable when applied 
+    to your own institution and cause — not treated as abstract exercises.
 
 ---
 
 ## Approach and principles
 
-This workbook is built on a set of practical principles:
+This course is built on a set of practical principles:
 
-- **Training is contextual**  
-  Design must reflect real-world conditions, not ideal scenarios.
+- **Advocacy is contextual**  
+  What works in one institution may not work in another. Strategy must reflect 
+  your specific environment, relationships, and constraints.
 
-- **Training is participatory**  
-  Co-design improves relevance, trust, and usability.
+- **Advocacy is relational**  
+  Change happens through people. Understanding who holds power, who are your 
+  allies, and how to build coalitions is as important as having the right argument.
 
-- **Learning requires action**  
-  Practice, feedback, and iteration are essential.
+- **Evidence matters, but so do stories**  
+  A compelling case combines data with narrative. People are persuaded by both.
 
-- **Reuse benefits you and others**  
-  Designing for reuse improves efficiency and sustainability.
+- **Start where you are**  
+  You do not need a perfect plan or a large team to begin. Small, well-chosen 
+  actions build momentum.
 
-- **Improvement is ongoing**  
-  Training and materials evolve through use, feedback, and adaptation over time.
+- **Advocacy is iterative**  
+  Plans evolve through use. Reflection, evaluation, and adaptation are part of 
+  the process, not signs of failure.
 
-- **Impact extends beyond the room**  
-  Your training influences not only participants, but also the people and contexts they work in.
+- **The goal is lasting change**  
+  Tactics and campaigns come and go. The aim is to shift norms, policies, and 
+  practices in ways that outlast any individual effort.
 
 ---
 
 ## What you will be able to do
 
-By working through this workbook, you will be able to:
+By working through this course, you will be able to:
 
-- design training aligned with real-world outcomes  
-- understand learners and context  
-- create participatory learning experiences  
-- integrate practice, feedback, and evaluation  
-- reuse, adapt, and share materials effectively  
-- improve your training and materials over time  
+- explain what advocacy is and why it matters in a research context
+- identify and analyse relevant environmental sustainability policies
+- map power and stakeholders in your own institution
+- develop a practical advocacy plan with clear goals, strategies, and tactics
+- implement your plan with confidence, adapting as you go
+- evaluate your progress and reflect on your own contribution
 
 !!! info
-    The aim is not perfection, but progress—designing something that works, improving it through use, and building from there.
+    The aim is not to turn you into a professional campaigner, but to give you 
+    the knowledge, tools, and confidence to make a real difference within your 
+    own institution.

@@ -1,8 +1,8 @@
 ---
-description: Voice and tone guide for the "Teaching for Impact" workbook. Apply this style to all written content — prose, examples, callout boxes, and headings.
+description: Voice and tone guide for the "Advocacy for institutional environmental sustainability" workbook. Apply this style to all written content — prose, examples, callout boxes, and headings.
 ---
 
-This workbook — *Teaching for Impact: Designing Effective & Open Training* — is written for researchers, academics, and practitioners running their own training programmes. They are educated professionals encountering pedagogy and instructional design for the first time. Match this voice consistently throughout all content:
+This workbook — **Advocacy for institutional environmental sustainability** — is written for early career researchers, academics, and research technical professionals. They are educated professionals encountering advocacy and organastional change for the first time. They are interested in environmental sustainability but not experts in it. Match this voice consistently throughout all content:
 
 ---
 
