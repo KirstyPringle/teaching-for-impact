@@ -1,6 +1,6 @@
+<!-- type: concept -->
 # The Need for Change
 
-TEST
 
 This section provides background context for the course. It will help you understand the scale and nature of the environmental problem you are advocating around, and give you some of the language and evidence you will need when making the case to others.
 
