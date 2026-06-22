@@ -14,9 +14,10 @@ The live site can be found [here](https://kirstypringle.github.io/teaching-for-i
 ## Funding and Acknowledgements
 
 This course was developed with support from the 
-[NetDRIVE](https://uknetdrive.org) project. It draws on organisational 
-change course material developed by 
-[Greg Wilson](https://gvwilson.github.io/change/), used with permission.
+[NetDRIVE](https://uknetdrive.org) project. 
+
+It is developed from Greg Wilson's course on 
+[organisational change](https://gvwilson.github.io/change/), used with permission.
 
 ## Project Team
 
