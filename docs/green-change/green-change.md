@@ -2,14 +2,14 @@
 
 !!! Learning Outcomes "Learning Outcomes from the Course"
 
-	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small pn large).
+	- Improved awareness of the power of advocacy, including the notion that it can take many forms, and be effective on multiple scales (small and large).
 	- Understanding of the main steps in the process of advocacy
 	- Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
 	- Concrete steps to implement a plan. 
 
-This course is designed to give people working in research institutions the knowledge and skills help them advocate for environmental sustainability within their organisations.
+This course is designed to give people working in research institutions the knowledge and skills to help them advocate for environmental sustainability within their organisations.
 
-The course focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches you how to translate concern about the environmental impact of digital research into effective, purposeful action within your organisation
+It focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches you how to translate concern about the environmental impact of digital research into effective, purposeful action within your organisation.
 
 <!-- type: concept -->
 
@@ -17,7 +17,7 @@ The course focuses on addressing the contribution digital research makes to the 
 
 - It  focuses on advocacy for environmental sustainability within a digital research context. 
 
-- It is designed to allow you design your own advocacy plan, or to simply learn how to develop plans using examples
+- It is designed to allow you design your own advocacy plan
 
 <!-- end: type -->
 
@@ -132,19 +132,19 @@ Organisational change is often driven by external pressures such as regulation, 
 
 Advocacy and organisational change are closely connected. Advocacy is the process — the deliberate effort to influence decisions. Organisational change is the outcome — the shift in policy, practice, or culture that results. One without the other is incomplete: advocacy that never lands produces no change, and change without advocates to sustain it often fades.
 
-Environmental advocacy within research institutions works by creating the conditions for change: raising awareness, building coalitions, framing the issue in terms decision-makers care about, and keeping the pressure on until commitments are made and followed through.
+!!! tip
 
-One important thing to bear in mind: we usually see the result of change, not the process behind it. A new policy appears, a practice shifts — but the months of relationship-building, failed attempts, and strategic manoeuvring that made it happen are invisible. This means we often underestimate how much effort change actually requires, and we miss the chance to learn from the process. This course tries to make that process visible.
+    One important thing to bear in mind: we usually see the result of change, not the process behind it. A new policy appears, a practice shifts — but the months of relationship-building, failed attempts, and strategic manoeuvring that made it happen are invisible. This means we often underestimate how much effort change actually requires, and we miss the chance to learn from the process. This course tries to make that process visible.
 
 <!-- type: concept -->
 
 ## Scale — Big and Small Are Both Valid
 
-- **Small-scale advocacy** focuses on a specific issue within a single organisation — one policy, one practice, one routine
+- **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine
   - Faster to implement, easier to measure, less risky
 - **Large-scale advocacy** aims to influence multiple organisations, sectors, or government policy
-  - Deeper and more lasting, but slower and harder to initiate
-- Both matter — and they are connected: small institutional wins build momentum for wider systems change
+  - Deeper and can be more lasting, but slower and harder to initiate
+- Both scales matter, and they are connected: small institutional wins build momentum for wider systems change
 
 <!-- end: type -->
 
@@ -157,6 +157,7 @@ One important thing to bear in mind: we usually see the result of change, not th
 	- What are the characteristics of the change that made is successful
 
 <!-- end: type -->
+
 
 <!-- type: framework-->
 
@@ -202,7 +203,7 @@ This is likely to be an iterative process!
 
 
 <!-- type: concept -->
-# Section 1 - Understand the Issue
+# Section 1 - Problem Analysis: Understand the Issue
 <!-- end: type -->
 
 !!! Learning Outcomes
@@ -223,6 +224,8 @@ This is likely to be an iterative process!
 
 <!-- end: type -->
 
+There is background content on [The Need for Change](https://kirstypringle.github.io/teaching-for-impact/green-change/the-need-for-change/).
+
 ## Understanding the Issue: Environmental Policy
 
 Step one of the advocacy cycle is to better understand the issue. As this course focuses on environmental sustainability within research organisations, there are some common concepts that will help us to understand the issue.
@@ -241,7 +244,7 @@ The [Concordat for the Environmental Sustainability of Research and Innovation P
 
 !!! question "Reflection"
 
-Have you heard of the concordat? Is your institution a signatory?
+    Have you heard of the concordat? Is your institution a signatory?
 
 <!-- end: type -->
 
@@ -291,10 +294,6 @@ The concordat is voluntary, but Wellcome requires organisations it funds in the 
 
 <!-- end: type -->
 
-It covers six key areas, including transparency about the environmental impacts of research and finding new climate-conscious, low-carbon approaches. 
-
-The Concordat is a sector-wide commitment to embed sustainability into research practice (not just buildings and operations) with major funders using it as a compliance lever.
-
 
 <!-- type: concept -->
 
@@ -333,7 +332,7 @@ Organisational leadership, sustainable infrastructure, Supply chain and resource
 
 !!! tip
 
-	Notice that these six areas map closely onto the six priority areas of the Wellcome Concordat. This is not a coincidence — UKRI was a co-developer of the Concordat and is now a signatory. When you see alignment between funder and sector-wide policy, that is a strong signal you can use in advocacy.
+	Notice that these six areas map closely onto the six priority areas of the Wellcome Concordat. UKRI was a co-developer of the Concordat and is now a signatory. When you see alignment between funder and sector-wide policy, that is a strong signal you can use in advocacy.
 
 **What this means for institutions**
 
@@ -439,6 +438,10 @@ One key thing about how institutional decisions get made: the person at the top 
 
 ## Selectorate Theory
 
+!!! tip
+    Selectorate theory was developed to explain how political leaders gain and maintain power. While research organisations are not political systems, the theory provides a useful lens for thinking about organisational influence: in practice, leaders depend more on the support of some people than others. The concepts below are adapted in that spirit.
+
+
 Research organisations are not democracies — leaders are not elected by the people they lead.
 
 Selectorate theory helps explain how power actually works:
@@ -447,6 +450,22 @@ Selectorate theory helps explain how power actually works:
 - **Real selectorate** — those whose views genuinely count
 - **Winning coalition** — the small group whose support is essential to stay in power
 
+<!-- end: type -->
+
+Take a university as an example. Staff, students, governors, funders, and 
+the wider public are all part of the nominal selectorate — they formally 
+have a say. But the real selectorate is smaller: the people whose views 
+the Vice-Chancellor actually needs to weigh. And the winning coalition 
+smaller still — perhaps the senior leadership team, key heads of 
+department, and major funders. A proposal that those people support will 
+move forward; one that threatens their interests will stall, regardless 
+of how well-evidenced it is or how many people want it.
+
+For advocates, this is clarifying. You do not need to convince everyone — 
+you need to understand who is actually in the winning coalition for the 
+specific change you are seeking, and focus your energy there.
+
+<!-- type: concept -->
 
 ## What This Means for Advocates
 
@@ -477,7 +496,10 @@ A practical tool for visualising where power sits in relation to your cause.
 
 <!-- end: type -->
 
-See: [Museum of Protest — Power Analysis and Stakeholder Mapping](https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/)
+!!! tip
+    The Museum of Protest's guide on [Power Analysis and Stakeholder Mapping](https://museumofprotest.org/guides/guide-power-analysis-and-stakeholder-mapping/) 
+    goes deeper on these concepts, with practical methods and real-world examples 
+    drawn from campaigning and community organising. 
 
 <!-- type: concept -->
 
