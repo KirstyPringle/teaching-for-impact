@@ -7,19 +7,6 @@
 	- Awareness and confidence to use key tools to help design and create change (e.g. theory of change, identifying goals, strategies and actions).
 	- Concrete steps to implement a plan. 
 
-This course is designed to give people working in research institutions the knowledge and skills to help them advocate for environmental sustainability within their organisations.
-
-It focuses on addressing the contribution digital research makes to the dual challenges of the climate crisis and biodiversity loss.  It teaches you how to translate concern about the environmental impact of digital research into effective, purposeful action within your organisation.
-
-<!-- type: concept -->
-
-- The course is heavily based on Greg Wilson's course on [Organisational Change](https://gvwilson.github.io/change/)
-
-- It  focuses on advocacy for environmental sustainability within a digital research context. 
-
-- It is designed to allow you design your own advocacy plan
-
-<!-- end: type -->
 
 # Introduction to Advocacy and Organisational Change
 
