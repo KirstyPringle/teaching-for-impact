@@ -19,13 +19,6 @@ This course was developed with support from the
 It is developed from Greg Wilson's course on 
 [organisational change](https://gvwilson.github.io/change/), used with permission.
 
-## Project Team
-
-### University of Edinburgh
-
-ADD NAME  
-ADD NAME  
-
 ## Development Setup
 
 This is an MkDocs site built with 
