@@ -1,4 +1,4 @@
-# Advocacy for institutional environmental sustainability 
+# Advocacy for Sustainable Research
 
 !!! Learning Outcomes "Learning Outcomes from the Course"
 
