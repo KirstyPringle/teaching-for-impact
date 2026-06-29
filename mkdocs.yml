@@ -13,7 +13,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.prune
-    - navigation.indexes
+#    - navigation.indexes
     - navigation.footer
     - content.tabs.link
 ###    - toc.integrate
@@ -106,8 +106,4 @@ nav:
   - The Power of Stories: green-change/the-power-of-stories.md
   - Conclusion: conclusion.md
   - Activities: activities/activities-all.md
-  - Resources:
-      - Overview: resources/index.md
-      - Glossary: resources/glossary.md
-      - Course Itinerary: resources/course-itinerary.md
-      - Evaluation and Feedback: resources/evaluation-feedback.md
+  - Resources: resources/resources.md

@@ -1326,7 +1326,7 @@ And come back to the cycle. The map looks different from the second time around.
 
 - [UNICEF Advocacy Toolkit](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) — the framework underlying this course
 - [Museum of Protest — Guides](https://museumofprotest.org/guides/) — practical theory grounded in real campaigns
-- [Greg Wilson's Organisational Change course](https://gvwilson.github.io/change/) — the primary source this course draws on
+- [Greg Wilson's Organisational Change course](https://third-bit.com/change/) — the primary source this course draws on
 - [Wellcome Environmental Sustainability Concordat](https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat)
 - [UKRI Environmental Sustainability Strategy 2025–2030](https://www.ukri.org/publications/ukri-environmental-sustainability-strategy/ukri-environmental-sustainability-strategy-2025-to-2030/)
 - [Museum of Protest — Understanding Activism](https://museumofprotest.org/guides/guide-understanding-activism/)

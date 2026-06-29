@@ -1,4 +1,129 @@
-# Glossary
+# Resources
+
+Supporting materials for the Advocacy for Sustainable Research course.
+
+---
+
+## Course Itinerary
+
+This course is designed to be delivered as a full-day facilitated workshop. Timings below assume a group of 15–30 participants.
+
+| Time | Session | Format | Duration |
+|---|---|---|---|
+| 9:30 | **Welcome and Introduction to Advocacy** | | |
+| | What is advocacy, what it isn't, and how it connects to organisational change | Presentation | 15 min |
+| | Types of advocacy — systems vs institutional | Presentation | 15 min |
+| | The UNICEF 5-step advocacy cycle | Presentation | 15 min |
+| | *Discussion: examples of advocacy* | Activity | 15 min |
+| **10:45** | **Section 1 – Understand the Issue** | | |
+| | The policy landscape — Concordat, UKRI strategy, institutional policies | Presentation | 15 min |
+| | Using policy commitments as advocacy leverage | Presentation | 15 min |
+| | *Activity: find and analyse your institution's sustainability policy* | Activity | 15 min |
+| **11:35** | **☕ Break** | | **15 min** |
+| 11:50 | **Section 2 – People, Power and Stakeholders** | | |
+| | Power — formal and informal, selectorate theory | Presentation | 15 min |
+| | *Activity: who's in charge?* | Activity | 15 min |
+| | Power mapping, stakeholder analysis, and the Greendale example | Presentation | 15 min |
+| | Personas and stories — matching story types to stakeholders | Presentation | 15 min |
+| | *Activity: write a persona and draft a targeting strategy* | Activity | 15 min |
+| **13:10** | **🍽️ Lunch** | | **60 min** |
+| 14:10 | **Section 3 – Develop a Plan** | | |
+| | Cause, goal, strategy, and tactic — and common pitfalls | Presentation | 15 min |
+| | *Activity: identify goals, strategies and tactics* | Activity | 15 min |
+| | Approaches to advocacy — data, storytelling, policy engagement, and framing | Presentation | 15 min |
+| | Theory of change | Presentation | 15 min |
+| | *Activity: reframe your proposal and draft your advocacy plan* | Activity | 15 min |
+| **15:25** | **☕ Break** | | **15 min** |
+| 15:40 | **Section 4 – Implement Your Plan** | | |
+| | How change spreads — diffusion of innovations and choosing where to start | Presentation | 15 min |
+| | *Activity: mapping a past change* | Activity | 15 min |
+| | Who to involve first, coalition building, and navigating politics | Presentation | 15 min |
+| | Changing minds, dealing with resistance, and closing the deal | Presentation | 15 min |
+| | *Activity: retrospective on change* | Activity | 15 min |
+| **16:55** | **Section 5 – Follow Up, Evaluate, and Conclusion** | | |
+| | Outputs, outcomes, impact, and taking care of yourself | Presentation | 15 min |
+| | *Final reflection* | Activity | 15 min |
+| **17:15** | **Close** | | |
+
+### Notes for facilitators
+
+The activities most worth protecting are the persona writing (Section 2) and the advocacy plan draft (Section 3). The discussion and reflection activities are the easiest to trim if time is short.
+
+Section 5 and the Conclusion are combined at the end of the day. If the day is running ahead of schedule, restore the full Section 5 evaluation activity (allow an additional 15 minutes from 16:50).
+
+---
+
+## Course Evaluation
+
+Thank you for taking the time to complete this evaluation. Your feedback will help us improve the course for future participants.
+
+### About the Course
+
+**1. Overall, how useful did you find the course?**
+
+☐ Very useful  ☐ Useful  ☐ Somewhat useful  ☐ Not very useful
+
+**2. How would you rate the amount of content?**
+
+☐ Too much  ☐ About right  ☐ Too little
+
+**3. How would you rate the level of the content?**
+
+☐ Too advanced  ☐ About right  ☐ Too introductory
+
+**4. How familiar were you with advocacy and organisational change before this course?**
+
+☐ Not at all familiar  ☐ Slightly familiar  ☐ Fairly familiar  ☐ Very familiar
+
+**5. Which part of the course did you find most useful, and why?**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**6. Was there anything that didn't work well, or that you would change?**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Reflection
+
+**7. Has the course changed how you think about advocacy or organisational change? If so, how?**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**8. Is there something you plan to do differently as a result of this course?**
+
+☐ Yes  ☐ No  ☐ Not sure yet
+
+If yes, what?
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**9. What is the single most useful thing you are taking away from today?**
+
+&nbsp;
+
+&nbsp;
+
+*This evaluation is anonymous. Results will be used to improve the course.*
+
+---
+
+## Glossary
 
 Key terms used in this course, in alphabetical order.
 
