@@ -8,7 +8,7 @@
 	- Concrete steps to implement a plan. 
 
 
-## Introduction to Advocacy and Organisational Change
+# Introduction to Advocacy and Organisational Change
 
 !!! Learning Outcomes
 
@@ -18,7 +18,7 @@
 
 <!-- type: concept -->
 
-### What is Advocacy?
+## What is Advocacy?
 
 There is no single definition of advocacy
 
@@ -41,7 +41,7 @@ There is no single definition of advocacy
 
 <!-- type: concept -->
 
-### Types of Advocacy 
+## Types of Advocacy 
 
 There are many different types of advocacy; e.g. personal advocacy (which is essentially speaking up for needs and rights) or legal advocacy (which involves using formal legal processes and rights-based action to challenge unfair treatment or enforce compliance with the law). 
 
@@ -60,7 +60,7 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 <!-- type: concept -->
 
-### What advocacy isn't
+## What advocacy isn't
 
 - Advocacy is not just complaining or expressing frustration without a clear aim 
 - It is not a one-off opinion, but a purposeful attempt to influence change 
@@ -70,7 +70,7 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 <!-- end: type -->
 
-### Advocacy vs Activism
+## Advocacy vs Activism
 
 - Advocacy focuses on influencing decisions, policies, or systems, often through dialogue and structured engagement 
 - Activism is usually more public-facing and protest-based, aiming to raise awareness and apply pressure for change (e.g. demonstrations, strikes, campaigns)
@@ -93,7 +93,7 @@ Here we are focusing on institutional advocacy, which is where individuals or gr
 
 <!-- type: concept -->
 
-### Introduction to organisational change 
+## Introduction to organisational change 
 
 The process of organisations changing their policies, practices, culture, or systems 
 
@@ -115,7 +115,7 @@ Organisational change is often driven by external pressures such as regulation, 
 <!-- end: type -->
 
 
-### How advocacy and organisational change link together
+## How advocacy and organisational change link together
 
 Advocacy and organisational change are closely connected. Advocacy is the process — the deliberate effort to influence decisions. Organisational change is the outcome — the shift in policy, practice, or culture that results. One without the other is incomplete: advocacy that never lands produces no change, and change without advocates to sustain it often fades.
 
@@ -125,7 +125,7 @@ Advocacy and organisational change are closely connected. Advocacy is the proces
 
 <!-- type: concept -->
 
-### Scale — Big and Small Are Both Valid
+## Scale — Big and Small Are Both Valid
 
 - **Small-scale advocacy** focuses on a specific issue within a single organisation e.g. one policy, one practice, one routine
   - Faster to implement, easier to measure, less risky
@@ -156,7 +156,7 @@ So we often don't have the chance to learn from the process.
 
 <!-- type: concept-->
 
-### Advocacy cycle 
+## Advocacy cycle 
 There are a number of different ways of structuring advocacy, in this course we have adapted the Advocacy Cycle from [UNICEF](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) this will also form the structure of the rest of the course
 
 <!-- end: type -->
@@ -167,7 +167,7 @@ There are a number of different ways of structuring advocacy, in this course we 
 
 <!-- end: type -->
 
-### The 5-Step Advocacy Cycle
+## The 5-Step Advocacy Cycle
 
 **STEP ONE: Problem Analysis / Understanding the Issue** 
 Research and gather evidence to better understand the problem. The more you know, the better equipped you are to act.
@@ -190,7 +190,7 @@ This is likely to be an iterative process!
 
 
 <!-- type: concept -->
-## Section 1 - Problem Analysis: Understand the Issue
+# Section 1 - Problem Analysis: Understand the Issue
 <!-- end: type -->
 
 !!! Learning Outcomes
@@ -213,7 +213,7 @@ This is likely to be an iterative process!
 
 There is background content on [The Need for Change](https://kirstypringle.github.io/teaching-for-impact/green-change/the-need-for-change/).
 
-### Understanding the Issue: Environmental Policy
+## Understanding the Issue: Environmental Policy
 
 Step one of the advocacy cycle is to better understand the issue. As this course focuses on environmental sustainability within research organisations, there are some common concepts that will help us to understand the issue.
 
@@ -221,7 +221,7 @@ One big factor in environmental sustainability are high-level policies.
 
 <!-- type: concept-->
 
-### Concordat for the Environmental Sustainability of Research and Innovation Practice
+## Concordat for the Environmental Sustainability of Research and Innovation Practice
 
 The [Concordat for the Environmental Sustainability of Research and Innovation Practice](https://wellcome.org/about-us/positions-and-statements/environmental-sustainability-concordat) is a voluntary agreement, published in April 2024 and hosted by Wellcome, co-developed by over 25 organisations across the UK research and innovation sector. 
 
@@ -284,7 +284,7 @@ The concordat is voluntary, but Wellcome requires organisations it funds in the 
 
 <!-- type: concept -->
 
-### UKRI Environmental Sustainability Strategy 2025–2030
+## UKRI Environmental Sustainability Strategy 2025–2030
 
 UK Research and Innovation (UKRI) is the UK's main public funder of research and innovation.  
  and its environmental sustainability strategy sets expectations that ripple through to the institutions and researchers it funds.
@@ -340,7 +340,7 @@ The strategy explicitly frames environmental sustainability as a dimension of re
 
 <!-- type: concept -->
 
-### Institutional Environmental Sustainability Policy
+## Institutional Environmental Sustainability Policy
 
 High-level policies like the Concordat and the UKRI strategy matter — but for day-to-day advocacy within your organisation, **your institution's own environmental sustainability policy is often the most powerful tool you have**.
 
@@ -386,7 +386,7 @@ Most UK research institutions will have some form of environmental sustainabilit
 
 
 <!-- type: concept -->
-## Section 2 - People, Power and Stakeholders
+# Section 2 - People, Power and Stakeholders
 <!-- end: type -->
 
 !!! Learning Outcomes
@@ -398,7 +398,7 @@ Most UK research institutions will have some form of environmental sustainabilit
 
 <!-- type: concept -->
 
-### Why People Are Central to Advocacy
+## Why People Are Central to Advocacy
 
 No matter how strong your evidence or how clear your argument, change happens through people.
 
@@ -408,7 +408,7 @@ Understanding who those people are, what they care about, and how they relate to
 
 <!-- type: concept -->
 
-### Power — What It Is and Who Has It
+## Power — What It Is and Who Has It
 
 Formal power structures — org charts, job titles, committees — tell only part of the story.
 
@@ -423,7 +423,7 @@ One key thing about how institutional decisions get made: the person at the top 
 <!-- end: type -->
 
 
-### Selectorate Theory
+## Selectorate Theory
 
 !!! tip
     Selectorate theory was developed to explain how political leaders gain and maintain power. While research organisations are not political systems, the theory provides a useful lens for thinking about organisational influence: in practice, leaders depend more on the support of some people than others. The concepts below are adapted in that spirit.
@@ -454,7 +454,7 @@ specific change you are seeking, and focus your energy there.
 
 <!-- type: concept -->
 
-### What This Means for Advocates
+## What This Means for Advocates
 
 - Decision-makers primarily need to satisfy their winning coalition, not everyone
 - Find out who is in that coalition — these are the people worth influencing
@@ -465,7 +465,7 @@ specific change you are seeking, and focus your energy there.
 	You don’t need to convince everyone. You need to convince the right people.
 
 
-### Exercise: Who’s in Charge?
+## Exercise: Who’s in Charge?
 
 1. Who formally makes funding and work allocation decisions in your institution?
 2. Who do they actually need to keep happy — and how do they do that?
@@ -473,7 +473,7 @@ specific change you are seeking, and focus your energy there.
 
 <!-- type: concept -->
 
-### Power Mapping
+## Power Mapping
 
 A practical tool for visualising where power sits in relation to your cause.
 
@@ -490,7 +490,7 @@ A practical tool for visualising where power sits in relation to your cause.
 
 <!-- type: concept -->
 
-### Stakeholder Analysis
+## Stakeholder Analysis
 
 Once you know where power sits, categorise the people involved:
 
@@ -504,7 +504,7 @@ The goal is not just to identify who is who, but to understand *why* — what ar
 
 <!-- type: example -->
 
-### Worked Example: Greendale University
+## Worked Example: Greendale University
 
 Greendale is a fictional mid-sized research-intensive UK university. A group of researchers and RSEs want to advocate for a policy requiring all research computing to be reported as part of the university’s carbon footprint.
 
@@ -549,7 +549,7 @@ But if we don't do it, it will be done by people whom it *doesn't* make uncomfor
 
 <!-- type: concept -->
 
-### Personas of Key Power Players
+## Personas of Key Power Players
 
 If a power map helps to tell you who matters, a persona helps you to think about how to approach them.
 
@@ -578,7 +578,7 @@ A useful persona includes:
 
 <!-- type: concept -->
 
-### Stories and Personas
+## Stories and Personas
 
 A persona tells you who someone is. That tells you which story to use.
 
@@ -596,11 +596,11 @@ Stories also flow in both directions. Leadership narratives set direction and si
 See [The Power of Stories](the-power-of-stories.md) for more on each type.
 
 
-### Using Your Analysis to Decide Who to Target
+## Using Your Analysis to Decide Who to Target
 
 <!-- type: concept -->
 
-### Who to Target
+## Who to Target
 
 - **Start with allies, not decision-makers** — arrive with support, not alone
 - **Don’t neglect neutrals** — they are often more valuable to win over than opponents
@@ -621,7 +621,7 @@ See [The Power of Stories](the-power-of-stories.md) for more on each type.
 
 
 
-## Section 3 - Develop a Plan
+# Section 3 - Develop a Plan
 
 !!! Learning Outcomes
 
@@ -655,7 +655,7 @@ Cause, Goal, Strategy, Tactic
 
 <!-- type: concept -->
 
-### Navigating the Chain
+## Navigating the Chain
 
 		CAUSE
 
@@ -675,7 +675,7 @@ Cause, Goal, Strategy, Tactic
 
 <!-- type: concept -->
 
-### Common Pitfalls
+## Common Pitfalls
 
 **Confusing tactics with goals**
 - Signing the Concordat isn’t the goal: changing research practice is
@@ -699,7 +699,7 @@ Cause, Goal, Strategy, Tactic
 
 <!-- type: concept -->
 
-### Understanding Your Contribution
+## Understanding Your Contribution
 
 As you develop your advocacy plan, reflect on what you personally can bring:
 
@@ -718,7 +718,7 @@ See: [Museum of Protest — Understanding Activism](https://museumofprotest.org/
 
 <!-- type: concept -->
 
-### Approaches to Advocacy
+## Approaches to Advocacy
 
 Three complementary approaches — use in combination:
 
@@ -740,7 +740,7 @@ Use the type that fits the moment and the person. Data establishes that the prob
 
 <!-- type: framework -->
 
-### Framing Your Message
+## Framing Your Message
 
 The same proposal lands differently depending on who you are talking to.
 
@@ -784,7 +784,7 @@ A useful test: before any significant conversation, ask yourself — *what probl
 
 <!-- type: concept -->
 
-### Putting Together Your Plan
+## Putting Together Your Plan
 
 A good advocacy plan doesn't need to be long, but it should be honest and down to earth.
 
@@ -802,7 +802,7 @@ That last question — what can you realistically contribute — matters more th
 
 <!-- type: framework -->
 
-### Theory of Change
+## Theory of Change
 
 Makes explicit the connection between what you are doing and the change you want to see.
 
@@ -820,7 +820,7 @@ Writing this out — even roughly — does several useful things. It forces you 
 
 <!-- type: framework -->
 
-### Top-Down or Bottom-Up?
+## Top-Down or Bottom-Up?
 
 There is no single right approach to institutional change. Research by Borrego & Henderson suggests two useful dimensions to consider:
 
@@ -833,7 +833,7 @@ Most successful campaigns combine elements of both. The question is where to sta
 
 <!-- type: concept -->
 
-### The Right Kind of Knowledge
+## The Right Kind of Knowledge
 
 Organisational change requires a particular kind of knowledge that is hard to teach from a textbook.
 
@@ -865,7 +865,7 @@ Researchers and technical professionals are trained to value techne. Advocacy re
 
 <!-- type: concept -->
 
-## Section 4 – Implement Your Plan
+# Section 4 – Implement Your Plan
 
 <!-- end: type -->
 
@@ -878,7 +878,7 @@ Researchers and technical professionals are trained to value techne. Advocacy re
 
 <!-- type: concept -->
 
-### Before You Start: Find Out What Has Been Tried
+## Before You Start: Find Out What Has Been Tried
 
 - You may not be the first person to attempt this
 - An honest conversation with someone who tried before is worth hours of planning
@@ -894,7 +894,7 @@ You may find that the groundwork has already been laid. You may find that a prev
 
 <!-- type: framework -->
 
-### How Change Spreads: Diffusion of Innovations
+## How Change Spreads: Diffusion of Innovations
 
 1. **Knowledge** — person becomes aware the change exists
 2. **Persuasion** — they form an attitude toward it
@@ -910,7 +910,7 @@ Two things are worth holding onto. First, people can drop out at any stage — i
 
 <!-- type: concept -->
 
-### What This Means in Practice
+## What This Means in Practice
 
 - People can drop out at any stage — including after saying yes
 - Most people are neither strong supporters nor strong opponents — they are waiting
@@ -933,7 +933,7 @@ Two things are worth holding onto. First, people can drop out at any stage — i
 
 <!-- type: concept -->
 
-### Choosing Where to Start
+## Choosing Where to Start
 
 Choose a starting point that gives you the best chance of early success:
 
@@ -976,7 +976,7 @@ The best starting point is rarely the most ambitious one — and that is not a c
 
 <!-- type: framework -->
 
-### Who to Involve First
+## Who to Involve First
 
 **Start with:**
 
@@ -1013,7 +1013,7 @@ The **decision owners** — the people with formal authority to approve the chan
 
 <!-- type: concept -->
 
-### On Politics
+## On Politics
 
 Politics is not a dirty word.
 
@@ -1029,7 +1029,7 @@ Politics simply means that the same evidence, the same data, and the same argume
 
 <!-- type: concept -->
 
-### Building Support and Closing the Deal
+## Building Support and Closing the Deal
 
 - Support other causes in exchange for support for yours
 - Connect your proposal to something larger with existing momentum
@@ -1059,7 +1059,7 @@ Stories also spread change beyond your immediate campaign. When people share wha
 
 <!-- type: concept -->
 
-### Changing Minds
+## Changing Minds
 
 - Debate rarely changes minds — people choose beliefs based on identity and trust
 - **Trusted relationships** matter more than better arguments
@@ -1087,7 +1087,7 @@ This is why building relationships — with allies, with neutrals, even with sof
 
 <!-- type: framework -->
 
-### Dealing with Resistance
+## Dealing with Resistance
 
 - **Formalise the sceptic** — invite thoughtful critics in; often improves the proposal
 - **Isolate committed opponents** — do not spend disproportionate energy on people who will never agree
@@ -1114,7 +1114,7 @@ The hardest resistance to navigate is inertia — the tendency for people to kee
 
 <!-- type: reflection -->
 
-### When People Tell You to Stop
+## When People Tell You to Stop
 
 - If one trusted person says stop — keep going
 - If several say it — listen carefully
@@ -1143,7 +1143,7 @@ Ask yourself whether the disagreement is about *what* you are trying to achieve 
 
 <!-- type: concept -->
 
-## Section 5 – Follow Up and Evaluate
+# Section 5 – Follow Up and Evaluate
 
 <!-- end: type -->
 
@@ -1156,7 +1156,7 @@ Ask yourself whether the disagreement is about *what* you are trying to achieve 
 
 <!-- type: concept -->
 
-### Why Evaluation Matters
+## Why Evaluation Matters
 
 Not just a reporting requirement — it is how you find out if your theory of change was right.
 
@@ -1170,7 +1170,7 @@ Evaluation is easy to deprioritise when you are in the middle of doing the work.
 
 <!-- type: framework -->
 
-### What to Evaluate
+## What to Evaluate
 
 - **Outputs** — what you produced: workshops run, meetings held, documents submitted
 - **Outcomes** — what changed: policies adopted, behaviours shifted, commitments made
@@ -1184,7 +1184,7 @@ It helps to set out what level you are working at before you start, not after. I
 
 <!-- type: concept -->
 
-### Following Up on Commitments
+## Following Up on Commitments
 
 If your advocacy resulted in a commitment — follow up. This is not aggressive. It is part of the process.
 
@@ -1217,7 +1217,7 @@ Maintaining relationships with the people you engaged — allies, neutrals who c
 
 <!-- type: concept -->
 
-### Taking Care of Yourself
+## Taking Care of Yourself
 
 Advocacy takes sustained effort — pay attention to yourself, not just the campaign.
 
@@ -1237,7 +1237,7 @@ Watch for the early signals: loss of motivation, creeping cynicism about whether
 
 <!-- type: reflection -->
 
-### This Is Iterative
+## This Is Iterative
 
 The UNICEF advocacy cycle is called a cycle for a reason.
 
@@ -1257,13 +1257,13 @@ After each round you understand the issue better, you know more about the people
 
 <!-- type: concept -->
 
-## Conclusion
+# Conclusion
 
 <!-- end: type -->
 
 <!-- type: concept -->
 
-### What We Did Not Cover
+## What We Did Not Cover
 
 - **Advocacy in a time of crisis** — opportunities and risks shift when organisations are under pressure
 - **Persuasive communication** — knowing what to say and saying it well are different skills
@@ -1284,7 +1284,7 @@ And on the long game: the changes we are trying to make in institutions do not h
 
 <!-- type: framework -->
 
-### The Third Step
+## The Third Step
 
 Software Carpentry spent 15 years teaching researchers to code — and never made it a normal part of research training. It stopped at step two of three:
 
@@ -1300,7 +1300,7 @@ Whatever you decide to advocate for, keep the third step in mind. The tactics in
 
 <!-- type: concept -->
 
-### Where to Go From Here
+## Where to Go From Here
 
 - Start where you are
 - Use what you have
@@ -1322,7 +1322,7 @@ And come back to the cycle. The map looks different from the second time around.
 
 <!-- type: concept -->
 
-### Further Reading and Resources
+## Further Reading and Resources
 
 - [UNICEF Advocacy Toolkit](https://www.unicef.org/lesotho/media/1231/file/YPH-Module-4.pdf) — the framework underlying this course
 - [Museum of Protest — Guides](https://museumofprotest.org/guides/) — practical theory grounded in real campaigns
