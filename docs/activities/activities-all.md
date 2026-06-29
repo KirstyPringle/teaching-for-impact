@@ -1,6 +1,6 @@
 # Activities
 
-These activities accompany the course *Advocacy for Institutional Environmental Sustainability*. They are designed to be worked through during a facilitated session, but can also be completed independently.
+These activities accompany the course *Advocacy for Sustainable Research*. They are designed to be worked through during a facilitated session, but can also be completed independently.
 
 Each activity includes an estimated time, the context it sits in, and what you will produce.
 
